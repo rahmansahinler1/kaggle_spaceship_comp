@@ -7,6 +7,7 @@ The Kaggle Spaceship competition is a machine learning challenge where participa
 - Logistic Regression
 - Decision Tree
 - Random Forest
+- XGBoost
 
 # Result
 
